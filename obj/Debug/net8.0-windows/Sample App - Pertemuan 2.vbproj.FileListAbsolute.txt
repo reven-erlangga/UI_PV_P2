@@ -1,0 +1,16 @@
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\obj\Debug\net8.0-windows\Sample App - Pertemuan 2.vbproj.GenerateResource.cache
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\obj\Debug\net8.0-windows\Sample App - Pertemuan 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\obj\Debug\net8.0-windows\Sample App - Pertemuan 2.AssemblyInfoInputs.cache
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\obj\Debug\net8.0-windows\Sample App - Pertemuan 2.AssemblyInfo.vb
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\obj\Debug\net8.0-windows\Sample App - Pertemuan 2.vbproj.CoreCompileInputs.cache
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\bin\Debug\net8.0-windows\Sample App - Pertemuan 2.exe
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\bin\Debug\net8.0-windows\Sample App - Pertemuan 2.deps.json
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\bin\Debug\net8.0-windows\Sample App - Pertemuan 2.runtimeconfig.json
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\bin\Debug\net8.0-windows\Sample App - Pertemuan 2.dll
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\bin\Debug\net8.0-windows\Sample App - Pertemuan 2.pdb
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\obj\Debug\net8.0-windows\Sample App - Pertemuan 2.dll
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\obj\Debug\net8.0-windows\refint\Sample App - Pertemuan 2.dll
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\obj\Debug\net8.0-windows\Sample App - Pertemuan 2.pdb
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\obj\Debug\net8.0-windows\Sample App - Pertemuan 2.genruntimeconfig.cache
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\obj\Debug\net8.0-windows\ref\Sample App - Pertemuan 2.dll
+C:\Users\reven\Downloads\sample-2\VB-2\Sample App - Pertemuan 2\Sample App - Pertemuan 2\obj\Debug\net8.0-windows\Sample_App___Pertemuan_2.DataSiswa.resources

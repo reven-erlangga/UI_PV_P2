@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sample App - Pertemuan 2/1.0.0": {
+        "runtime": {
+          "Sample App - Pertemuan 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sample App - Pertemuan 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
